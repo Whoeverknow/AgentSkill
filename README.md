@@ -1,4 +1,4 @@
-# AgentSkill
+# AgentSkill （这个是新的，20260531，只有这个是最终版，也是基线版本，参考了K的LLM Wiki设定）
 For my personal skill - ALL MIT License
 Academic Knowledge Manager v3.0
 个人学术知识全生命周期管理系统。不是笔记软件，不是 Zotero——是一个与 AI 协同的知识提取、结构化、分层降冷和 Wiki 式检索的规则引擎。
