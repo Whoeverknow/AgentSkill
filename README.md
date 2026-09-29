@@ -71,3 +71,15 @@ work/papers/ — 论文写作草稿
 
 许可
 MIT
+
+---
+
+## ✅ 证据链 · 🧭 溯源
+
+| 项 | 依据（仓库内可核验） |
+|---|---|
+| 版本基线 | 本 README 明确标注：**2026-05-31 版，唯一最终版/基线版**，参考 K 的 LLM Wiki 设定 |
+| 许可 | `LICENSE`：MIT © 2026 Whoeverknow |
+| 交付物 | `km-v3.1-portable.zip`（34,838 bytes，SHA256 `EFE8FE62C55D587F16541540823A7FE0D34C5FB7502ACD62A61469CD0FEA53F0`，可自行复核） |
+| 知识库实证 | 本 README 记录：20 条已发布条目 + 3 条待审核草稿（领域清单见上，可在 [academic-knowledge-manager/tools/INDEX.md](https://github.com/Whoeverknow/academic-knowledge-manager/blob/main/tools/INDEX.md) 对照实时索引） |
+| 关联仓库 | [academic-knowledge-manager](https://github.com/Whoeverknow/academic-knowledge-manager)（完整系统）· [FinalAgentSkill](https://github.com/Whoeverknow/FinalAgentSkill)（便携包发布版） |
